@@ -6,6 +6,7 @@ in SOLUTION/train.py if you get stuck.
 """
 
 def main():
+
     raise NotImplementedError("Stages 5-6: see GUIDE.md")
 
 
