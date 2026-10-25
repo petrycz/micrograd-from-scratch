@@ -69,7 +69,7 @@ Recursive graph dfs works best since the iterative stack approach requires keepi
 
 The scalar-autograd design follows Andrej Karpathy's
 [micrograd](https://github.com/karpathy/micrograd). This version is rebuilt from
-scratch as a capstone for the matrix-calculus module of a self-study calculus course,
+scratch as a capstone for the [matrix-calculus](https://github.com/petrycz/Calculus) module of a self-study calculus course,
 with a test suite and a guided build.
 
 ## License
