@@ -28,7 +28,6 @@ class Neuron(Module):
     def __call__(self, x):
         cumul = 0
         for i in range(self.nin):
-            print("i, weights, and x are:", i, len(self.weights), len(x))
             cumul+=self.weights[i]*x[i]
         
         inp = cumul + self.bias
